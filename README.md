@@ -19,3 +19,5 @@ My personal portfolio website is a responsive, single-page application built usi
 
 # OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/6fdbf729-eed2-4dbb-936a-4e786f4a78c7)
+
